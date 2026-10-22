@@ -1,0 +1,13 @@
+# local
+data/
+
+# Extensiones
+*.xlsx
+*.csv
+
+# Excepción
+!template_resumen.csv
+
+# Archivos del sistema y entorno
+.env
+__pycache__/
